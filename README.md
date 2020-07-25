@@ -7,6 +7,6 @@ Useful documents:
 * 'Topic Modelling.ipynb' contains the code created to perform LDA topic modelling on the corpora of text extracted from the 1800 articles.
 
 I have pickled a number of the large files so you do not have to run the web scraping locally:
-* The 'krebs_dataset.pickle' file contains the raw text and metadata from extracted from the web as a dataframe
+* The 'krebs_dataset.pickle' file contains the raw text and metadata  extracted from the web as a dataframe
 * The 'df_preprocessed.pickle' file contains the outputs from the text pre-processing I performed on the krebs_dataset dataframe ready for topic modelling.
 * The 'lda_body.pickle' and 'lda_title.pickle' files contain the pickled versions of the LDA models created from the bodys and titles of the 1800 articles.
