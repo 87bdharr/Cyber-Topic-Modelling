@@ -14,3 +14,6 @@ This is a project that explores text topics from 1800 Cyber Security articles pu
 **Additional Documents:**
 * 'Article Recommender.ipynb' contains code that recommends articles based on similar article titles
 * 'href.list' contains the list of each article's url which is used later in the web scraping code
+
+This project was created using Azure Notebooks and the original code can be foud at https://notebooks.azure.com/bdharr/projects/cyber-nlp-project
+
